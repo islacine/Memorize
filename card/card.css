@@ -1,0 +1,56 @@
+h1,h2 {
+    color: #d35400;
+
+}
+
+body{
+    background-image: url("t.jpg");
+}
+
+textarea{
+    font-family: "Sans Forgetica";
+    font-size: 30px;
+    src: url("Sans Forgetica/SansForgetica-Regular.otf") format("opentype");
+    background-image:url("bg-grid.png");
+    color: #2980b9;
+    border-radius:25px;
+
+}
+
+.CardTxt{
+    font-family: "Sans Forgetica";
+    src: url("Sans Forgetica/SansForgetica-Regular.otf") format("opentype");
+    background-image:url("bg-grid.png");
+    height: 600px;
+
+}
+
+#chngGreen{
+    color: #2ecc71;
+}
+
+.srch{
+    width: 10000px;
+
+    margin-left: 200px;
+
+}
+
+#changBlue{
+    color: #2980b9;
+}
+
+#changOrange{
+    color: #d35400;
+}
+
+.round{
+    border-radius: 90px;
+}
+
+.police{
+    font-family: "Sans Forgetica";
+    src: url("Sans Forgetica/SansForgetica-Regular.otf") format("opentype");
+    font-size: 65px;
+
+}
